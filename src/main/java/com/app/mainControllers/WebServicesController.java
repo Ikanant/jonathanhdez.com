@@ -26,6 +26,8 @@ public class WebServicesController {
 	public String webServicesHome(HttpServletRequest request, HttpSession session){
 		String api = request.getParameter("api");
 
+		
+		// List of Web Services
 		if(api!=null){
 			switch (api){
 				case "01":
