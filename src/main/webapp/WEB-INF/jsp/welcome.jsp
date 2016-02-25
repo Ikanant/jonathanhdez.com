@@ -361,25 +361,25 @@
 			<div class="row subtitle-row">
 				<div class="col-sm-1 hidden-sm">&nbsp;</div>
 				<div class="col-12 col-sm-10 font-light">
-					<h3 class="font-thin" style="text-align: justify; line-height: 30px;">Now that you have scrolled through some
-						of my career accomplishments, I would like to share a little more
-						about myself. I immigrated to the United States from Cuba when I
-						was 15 years old not knowing any English, but determined to exceed
-						academically for a better future. I left most of my loved ones
-						behind and though this was a great challenge at first, it only
-						served as motivation to ensure my success in obtaining a career
-						away from the limitations of my home country. After two years of
-						intense studying, I went on to attend the University of Florida
-						where I majored in Computer Science and from then on, have been
-						very thankful to have found such a great passion in software
-						engineering. Aside from programming, I enjoy spending my free time
-						playing my guitar or salsa dancing with my girlfriend who
-						currently attends the University of North Carolina's School of
-						Dentistry. I have currently succeeded in working for a prestigious
-						Fortune 500 company and I am confident that this is only the
-						beginning of my career. I look forward to what is to come: a
-						future that I will work hard on in order to become a better person
-						as well as a better professional.</h3>
+					<h3 class="font-thin"
+						style="text-align: justify; line-height: 30px;">I immigrated
+						to the United States from Cuba when I was 15 years old not knowing
+						any English, but determined to exceed academically for a better
+						future. I left most of my loved ones behind and though this was a
+						great challenge at first, it only served as motivation to ensure
+						my success in obtaining a career away from the limitations of my
+						home country. After two years of intense studying, I went on to
+						attend the University of Florida where I majored in Computer
+						Science and from then on, have been very thankful to have found
+						such a great passion in software engineering. Aside from
+						programming, I enjoy spending my free time playing my guitar or
+						salsa dancing with my girlfriend who currently attends the
+						University of North Carolina's School of Dentistry. I have
+						currently succeeded in working for a prestigious Fortune 500
+						company and I am confident that this is only the beginning of my
+						career. I look forward to what is to come: a future that I will
+						work hard on in order to become a better person as well as a
+						better professional.</h3>
 				</div>
 				<div class="col-sm-1 hidden-sm">&nbsp;</div>
 			</div>
